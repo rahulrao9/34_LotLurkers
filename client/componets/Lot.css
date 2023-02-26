@@ -1,0 +1,27 @@
+#av{
+    font-size: 50px;
+    text-align: center;
+}
+#slot{
+    background-image: linear-gradient(to right,#114e5d, #5dc3c6);
+    background-size: 100%;
+    height: 100vh;
+}
+.box{
+    font-size: 22px;
+   color:black;
+    border: 2px;
+    border-radius: 10px;
+    height: 120px;
+    width: 60px;
+   
+    border :3px solid  #6f4d4d;
+    background-color:#90EE90;
+    
+     /* padding: 0px 1px 20px; */
+     line-height: 9px;
+    letter-spacing: 0.3px;
+    margin-left: 15px;
+    text-align: center;
+    padding-top: 50px;
+}
