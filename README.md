@@ -14,11 +14,11 @@ According to [Libelium](https://www.libelium.com/iot-solutions/smart-parking/), 
 * Dynamic pricing strategies based on occupancy
 
 # Reduces
-*Traffic volume: -8%
-*Gas emissions: -40%
-*Km. travelled: -30%
-*Time spent: -43%
-*Parking violations
-*Noise pollution
-*Fuel consumption
-*Drivers’ anxiety or fatigue
+* Traffic volume: -8%
+* Gas emissions: -40%
+* Km. travelled: -30%
+* Time spent: -43%
+* Parking violations
+* Noise pollution
+* Fuel consumption
+* Drivers’ anxiety or fatigue
