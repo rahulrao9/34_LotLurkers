@@ -13,7 +13,7 @@ According to [Libelium](https://www.libelium.com/iot-solutions/smart-parking/), 
 * Urban mobility and city planning
 * Dynamic pricing strategies based on occupancy
 
-*** Reduces
+***REDUCES***
 * Traffic volume: -8%
 * Gas emissions: -40%
 * Km. travelled: -30%
