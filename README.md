@@ -7,7 +7,7 @@ In a crowded place like the image below, image processing is a hard task. The be
 ![image](https://github.com/rahulrao9/34_LotLurkers/blob/main/view.png)
 
 # Benefits of Smart Parking solution
-***INCREASES***
+>***INCREASES***
 * Optimization of parking spaces in urban and private areas
 * Management of special parking spots: zones for emergency vehicles, loading or cab areas, parking spaces for people with disabilities, electric vehicle recharging points
 * Parking revenues by up to 35%
@@ -15,7 +15,7 @@ In a crowded place like the image below, image processing is a hard task. The be
 * Urban mobility and city planning
 * Dynamic pricing strategies based on occupancy
 
-***REDUCES***
+>***REDUCES***
 * Traffic volume: -8%
 * Gas emissions: -40%
 * Km. travelled: -30%
