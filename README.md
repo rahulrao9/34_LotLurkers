@@ -5,6 +5,7 @@ According to [Libelium](https://www.libelium.com/iot-solutions/smart-parking/), 
 
 In a crowded place like the image below, image processing is a hard task. The best feasible solution that can be used to have a smart parking system setup is by using sensors.
 
+
 # Benefits of Smart Parking solution
 ***INCREASES***
 * Optimization of parking spaces in urban and private areas
