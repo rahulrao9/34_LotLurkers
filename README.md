@@ -5,10 +5,20 @@ According to [Libelium](https://www.libelium.com/iot-solutions/smart-parking/), 
 ![image](https://github.com/rahulrao9/34_LotLurkers/blob/main/circuit.png)
 
 # Benefits of Smart Parking solution
-***Increases***
+***INCREASES***
 * Optimization of parking spaces in urban and private areas
 * Management of special parking spots: zones for emergency vehicles, loading or cab areas, parking spaces for people with disabilities, electric vehicle recharging points
 * Parking revenues by up to 35%
 * Reputation of being a greener city/facility
 * Urban mobility and city planning
 * Dynamic pricing strategies based on occupancy
+
+# Reduces
+*Traffic volume: -8%
+*Gas emissions: -40%
+*Km. travelled: -30%
+*Time spent: -43%
+*Parking violations
+*Noise pollution
+*Fuel consumption
+*Drivers’ anxiety or fatigue
