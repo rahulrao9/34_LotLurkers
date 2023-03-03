@@ -22,3 +22,7 @@ According to [Libelium](https://www.libelium.com/iot-solutions/smart-parking/), 
 * Noise pollution
 * Fuel consumption
 * Drivers’ anxiety or fatigue
+
+# Hardware
+* Arduino UNO REV3
+* UltraSonic Sensors (HC - SR04)
