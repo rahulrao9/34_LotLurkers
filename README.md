@@ -4,7 +4,7 @@ If there's one maneuver that stresses drivers, it's looking for a parking space 
 According to [Libelium](https://www.libelium.com/iot-solutions/smart-parking/), a company that provides technology solutions based on the Internet of Things (IoT), applying this technology reduces traffic volume by 8%, gas emissions by 40%, kilometers travelled by a car to park by 30% and time spent parking by 43%.
 
 In a crowded place like the image below, image processing is a hard task. The best feasible solution that can be used to have a smart parking system setup is by using sensors.
-
+![image](https://github.com/rahulrao9/34_LotLurkers/blob/main/view.png)
 
 # Benefits of Smart Parking solution
 ***INCREASES***
