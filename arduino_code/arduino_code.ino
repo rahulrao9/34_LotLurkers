@@ -15,7 +15,8 @@ int echoPin5=10;
 
 void setup() {
   Serial.begin (9600);
-  pinMode(trigPin1, OUTPUT);
+  //logic
+  pinMode(trigPin1, OUTPUT); 
   pinMode(echoPin1, INPUT);
    pinMode(trigPin2, OUTPUT);
   pinMode(echoPin2, INPUT);
@@ -39,14 +40,14 @@ void loop() {
   duration1 = pulseIn(echoPin1, HIGH);
   distance1 = (duration1/2) / 29.1;
 
-   if ( distance1 <= 10){
-    Serial.println("0 0");
+   if ( distance1 <= 212 || distance1 >= 90){ // Assuming the sensors are put on a ceiling of 7 feet and avg motorcycle height is 4 feet.
+    Serial.println("0 0"); // vehicle is parked
   }
   else {
-    Serial.println("0 1");
+    Serial.println("0 1"); // slot is free
   }
 
-  delay(200);
+  delay(200); //200 ms delay in reading each sensor
   long duration2, distance2;
   digitalWrite(trigPin2, LOW);  // Added this line
   delayMicroseconds(2); // Added this line
@@ -56,7 +57,7 @@ void loop() {
   duration2 = pulseIn(echoPin2, HIGH);
   distance2= (duration2/2) / 29.1;
 
-   if ( distance2 <= 10){
+   if ( distance2 <= 212 || distance2 >= 90){
     Serial.println("1 0");
   }
   else {
@@ -73,7 +74,7 @@ void loop() {
   duration3 = pulseIn(echoPin3, HIGH);
   distance3= (duration3/2) / 29.1;
 
-   if (distance3 <= 10){
+   if (distance3 <= 212 || distance3 >= 90){
     Serial.println("2 0");
   }
   else {
@@ -90,7 +91,7 @@ void loop() {
   duration4 = pulseIn(echoPin4, HIGH);
   distance4= (duration4/2) / 29.1;
 
-   if (distance4 <= 10){
+   if (distance4 <= 212 || distance4 >= 90){
     Serial.println("3 0");
   }
   else {
@@ -107,7 +108,7 @@ void loop() {
   duration5 = pulseIn(echoPin5, HIGH);
   distance5= (duration5/2) / 29.1;
 
-   if ( distance5 <= 10){
+   if ( distance5 <= 212 || distance5 >= 90){
     Serial.println("4 0");
   }
   else {
