@@ -31,7 +31,7 @@ In a crowded place like the image below, image processing is a hard task. The be
 * UltraSonic Sensors (HC - SR04)
 
 # Circuit
-![image](https://github.com/rahulrao9/34_LotLurkers/blob/main/circuit.png)
+![image](https://github.com/rahulrao9/34_LotLurkers/blob/main/circuit-u.png)
 
 # ***Approach that failed***
 We tried object detection using YOLOv7 for an image taken from the best angle and these were the results:
